@@ -2,5 +2,5 @@
 
 
 This project is a starting point for a Flutter application.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](clean-architecture-2.png)
 
